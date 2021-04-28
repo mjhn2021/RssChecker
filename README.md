@@ -15,7 +15,6 @@
 
 * class RssFeed - class representing a Rss Feed
 
-# Assumptions made:
+# Technologies Used
 
-* A Company's Rss Activity is considered active within a time period if atleast one of its Rss Feeds is active.
-* If an Rss Feed can not be accessed, it's activity is considered unknown - neither active or inactive.
+* .NET5 , C#, LINQ, PLINQ, NUnit 3 Tests
