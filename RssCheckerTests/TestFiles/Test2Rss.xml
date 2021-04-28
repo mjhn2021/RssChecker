@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podaccess="https://schema-access.acast.com/1.0/" xmlns:pingback="https://podping.info/specification/1">
+    <channel>
+        <title>Unraveled: Long Island Serial Killer</title>
+        <description><![CDATA[<p>"Unraveled: Long Island Serial Killer" is a search for answers in one of the biggest murder mysteries in American history. It’s been ten years since eleven bodies were found on the coast of Long Island. Amongst a backdrop of police corruption and cover ups at the highest levels of Suffolk County, co-hosts Alexis Linkletter and Billy Jensen reinvestigate the murders from a decade ago to expose the untold story of why the case remains unsolved.</p>]]></description>
+        <acast:showId>5ea17537-f11f-4532-8202-294d976b9d5c</acast:showId>
+        <acast:showUrl>unraveled</acast:showUrl>
+        <link>https://www.discoveryplus.com</link>
+        <atom:link rel="self" type="application/rss+xml" href="https://rss.acast.com/unraveled" />
+        
+        <pingback:receiver>https://interaction.acast.com/pingback</pingback:receiver>
+        <lastBuildDate>Mon, 19 Apr 2021 22:13:42 GMT</lastBuildDate>
+        <pubDate>Wed, 10 Mar 2021 08:00:00 GMT</pubDate>
+        <ttl>30</ttl>
+        <language>en</language>
+        <copyright><![CDATA[]]></copyright>
+        <docs>https://www.acast.com/unraveled</docs>
+    <acast:signature key="EXAMPLE" algorithm="aes-256-cbc"><![CDATA[N3jiUfUcK/4AV/WkPM7TFw==]]></acast:signature>
+		<acast:network id="860d9c6c-709c-e89d-9de6-89e8107ae681"><![CDATA[Investigation Discovery]]></acast:network>
+		<acast:settings><![CDATA[QMJBO1w/1IT53A5j+xN1S/ULCQqVXCCGL1JgYSZZBwMuwV2X2d0+l7q3WUDVYCh6i7YuaX0exHsNdkBpBYnDN9zxhFD+Alk32S4XsCVxmud64NOQhndj0h2lW3L2DOQDs5SlnSBxmCWkAM8N8YiA8cGCIEIVl/7qps/HAx+HdMc0fmDm+ocH/5qPYKHm2cyQs5iyV16gNlOKSSKrUeMvFFw5je7Vra1jDQNzS2q3u8SonnSCmSq6LSjndzMG7gQ+UqdE4S+92Rul46nLesQvcv8DrBWyC2ekd7QcY8a0M9ne5nSOx2H/NvOD/lThEWMu6lhitoopVxLfwRSlC3lZrMll5avZkZdieSPSPewm5ydgOIHsFBl+pgo/mVvLeYVEEhO4LRRf1xotTxiUB+SE1x4nVNiBEp0qOxkhwi+SwgEyyIlA/81+sDjY5GwKIlUPVnv+Br0xSzy+r1WKITYx9E7TkGJRb42n6My8CDI4iSS18UhI0F3pIli5A4Q67BXt79PpKRXpFhOeXSVMpzV3yLGCOhl/LBsEr+oW0vOKbgz7WQEPNKmku/b+w8J3cP8DBO5QDxnYpXjFLAz2MTogXTmQOJ77Mioog3BKtxRslhakFREccEtVOq0Bs6HOQLE9Q62xxaKyaEbZWg4cVEjKLUIDBbsJr50ZTJ3CSlCy8pYV7mSxXuBt+ENXn6pNZYDslfhDj0fTphQGsZo4Y/YJH3OaHEXfxUbDzkYOTLUAdOCxxX50IVUFZyybvlfA1ZQOQqb/cuPIANE7oIKLs1ITgTklmL5WhTB+4qTrTgL9MEbTVKeLgGq2olPWMPfE4BzdYDjEYzuTholswEbtIOIWN8HRjoiL6asOeQxEHUhHr5VrX3O1iWSNwNO71HT0ouQIT+kC30NJKpgtWay7+jPx7qi9zlaLhnpu/beLUZNgKldvRgb9mIfCobNLNkqOQKAb+a/afG47cGWWh75onosHzHwgw+Ja65n2MiQi1ZVL/dL0qKC33c7lRTSSsG016HkXacsaQVWiOW+eDjs1dkZznXD7RmJehLa1QeEmJvtJdh3d3Zggn4qoBkNY3AGedRTK]]></acast:settings>
+		
+        <image>
+            <url>https://thumborcdn.acast.com/-_awfiCClE6hVgUS4wdWTvqHdFI=/1500x1500/https://mediacdn.acast.com/assets/5ea17537-f11f-4532-8202-294d976b9d5c/-kkfmnl2d-lisk-podcast_ka-dplus-3000x3000.png</url>
+            <title>Unraveled: Long Island Serial Killer</title>
+            <link>https://www.discoveryplus.com</link>
+        </image>
+        
+        <itunes:image href="https://thumborcdn.acast.com/-_awfiCClE6hVgUS4wdWTvqHdFI=/1500x1500/https://mediacdn.acast.com/assets/5ea17537-f11f-4532-8202-294d976b9d5c/-kkfmnl2d-lisk-podcast_ka-dplus-3000x3000.png" />
+        <itunes:subtitle><![CDATA[&quot;Unraveled: Long Island Serial Killer&quot; is a search for answers in one of the biggest murder mysteries in American history. It’s been ten years since eleven bodies were found on the coast of Long Island. Amongst a backdrop of police corruption...]]></itunes:subtitle>
+        <itunes:type>serial</itunes:type>
+        <itunes:author>discovery+</itunes:author>
+        <itunes:summary>&quot;Unraveled: Long Island Serial Killer&quot; is a search for answers in one of the biggest murder mysteries in American history. It’s been ten years since eleven bodies were found on the coast of Long Island. Amongst a backdrop of police corruption and cover ups at the highest levels of Suffolk County, co-hosts Alexis Linkletter and Billy Jensen reinvestigate the murders from a decade ago to expose the untold story of why the case remains unsolved.</itunes:summary>
+        
+        
+        <itunes:owner>
+	        <itunes:name><![CDATA[]]></itunes:name>
+	        <itunes:email>id_digital_social@discovery.com</itunes:email>
+        </itunes:owner>
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:keywords></itunes:keywords>
+                <itunes:category text="True Crime" />
+        <media:credit role="author">discovery+</media:credit>
+	    <media:description type="html"><![CDATA[<p>"Unraveled: Long Island Serial Killer" is a search for answers in one of the biggest murder mysteries in American history. It’s been ten years since eleven bodies were found on the coast of Long Island. Amongst a backdrop of police corruption and cover ups at the highest levels of Suffolk County, co-hosts Alexis Linkletter and Billy Jensen reinvestigate the murders from a decade ago to expose the untold story of why the case remains unsolved.</p>]]></media:description>
+            <item>
+                <title>Who Is The LISK?</title>
+                <acast:episodeId>21b00541-86b4-46e4-9ef7-81331eb63cd4</acast:episodeId>
+                <acast:episodeUrl>whoisthelisk-</acast:episodeUrl>
+                <itunes:subtitle>Alexis and Billy examine all the theories in the case, from how many killers are out there to who the leading suspects are—as well as share their personal thoughts on what went wrong during the investigation and who the LISK is. To follow our investiga...</itunes:subtitle>
+                <itunes:summary><![CDATA[Alexis and Billy examine all the theories in the case, from how many killers are out there to who the leading suspects are—as well as share their personal thoughts on what went wrong during the investigation and who the LISK is. To follow our investigation even further, stream&nbsp;Unraveled: The Long Island Serial Killer, exclusively on discovery+.&nbsp;Use our code discoveryplus.com/UNRAVELED to start your 7-day free trial today.*
+&nbsp;
+*discovery+ is currently only available for US subscribers. &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></itunes:summary>
+                
+                <guid isPermaLink="false"><![CDATA[21b00541-86b4-46e4-9ef7-81331eb63cd4]]></guid>
+                <pubDate>Wed, 10 Mar 2021 08:00:00 GMT</pubDate>
+                <itunes:duration>00:41:58</itunes:duration>
+                <itunes:keywords></itunes:keywords>
+                <itunes:explicit>yes</itunes:explicit>
+                <itunes:episodeType>full</itunes:episodeType>
+                
+                
+                <itunes:season>1</itunes:season>
+                <itunes:episode>7</itunes:episode>
+                
+                
+                <description><![CDATA[<p>Alexis and Billy examine all the theories in the case, from how many killers are out there to who the leading suspects are—as well as share their personal thoughts on what went wrong during the investigation and who the LISK is. To follow our investigation even further, stream&nbsp;<em>Unraveled: The Long Island Serial Killer</em>, exclusively on discovery+.&nbsp;Use our code discoveryplus.com/UNRAVELED to start your 7-day free trial today.*</p><p>&nbsp;</p><p>*<em>discovery+ is currently only available for US subscribers.</em></p> &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></description>
+               <acast:settings><![CDATA[rceWiicvqsQEDtNJuaoFn2kIifP5sBiPYpp7zgeytD5A8mogOd0eM0ZmfsGtCJ0KgELmIIbNXlnIo2TMEJvGJjGmKqMOj1ABG9qzJa0/ooMwI5ZrpYxJ6ZO4hRP8MLl03UNgaGEj2V+hilwemPv7rA31Xz/p1a0HwUX/RFO22+4R+rSAkUc6qx8JxyELLELtUP3XIG41ko8rjA0HRAF3iAPpCASWWXyxvxK+Qp0HIRAxONnb2d2vNXV1kzGJiLvAY2vqN444czz8zzA260Hniq9ySRaAVxDs9CrqzrnU81DO4V+tRG5Ktjzv7eoUZUYVztRSY3tc67olndCXf5H0H1UFwY2nS9Wav+IZ3fqoHebSQj8FLoJtiSjjOR0mr3utEZiYOs/S+I3/JdjByniKfDG+A1stbRGDqPhh4ZPnz835eSMcVLix9aLjTQELJck9IZ0WjxFF9SSUbI8jKpq5CFTwVIoEKBAEcCyshr2T1Y99jieQ8aRXOdZfvF4kwvgmJ4qkFIC5D0Q8mxkFWSQM3GiM0MpnBPpLuav3ajCT7KXsHIuxJouf3dmbZe/nxBQaB5dgXyGkiAnaM5xKdI4MUs8qnAsieMt0Z72JropzPZUNWQQ2Jt5jqieJ+0Fv6eg8xooPx39CJoB6S9OUaM57orL/hX8T7Kr4Ah6n/FyxlSu+pdnZCurZEm81JHUcESV2BfgB0QV+AJUva9oD6o0zCqGF/NRDb+i2w+8GwGrdBIPCNz/hrToQ1xCu9Ui6oRdQ9c5YiknN+/0NlGee7/vRSwk1ga4FEiqCnukuewr0NrJFEtTNPP1hjeI4Gi1g4t0c]]></acast:settings>
+                <link>https://play.acast.com/s/unraveled/whoisthelisk-</link>
+
+                <enclosure url="https://sphinx.acast.com/unraveled/whoisthelisk-/media.mp3" length="46904856" type="audio/mpeg"/>
+            </item>
+            <item>
+                <title>New Evidence</title>
+                <acast:episodeId>5f342d05-3047-4551-9693-3445563c455e</acast:episodeId>
+                <acast:episodeUrl>newevidence</acast:episodeUrl>
+                <itunes:subtitle>With a cloud of suspicion hanging over the Suffolk County Police Department, Billy and Alexis interview the new officials in charge of the LISK investigation, plus share some startling new evidence that was recently revealed.</itunes:subtitle>
+                <itunes:summary><![CDATA[With a cloud of suspicion hanging over the Suffolk County Police Department, Billy and Alexis interview the new officials in charge of the LISK investigation, plus share some startling new evidence that was recently revealed. &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></itunes:summary>
+                
+                <guid isPermaLink="false"><![CDATA[5f342d05-3047-4551-9693-3445563c455e]]></guid>
+                <pubDate>Wed, 03 Mar 2021 08:00:00 GMT</pubDate>
+                <itunes:duration>00:45:23</itunes:duration>
+                <itunes:keywords></itunes:keywords>
+                <itunes:explicit>yes</itunes:explicit>
+                <itunes:episodeType>full</itunes:episodeType>
+                
+                
+                <itunes:season>1</itunes:season>
+                <itunes:episode>6</itunes:episode>
+                
+                
+                <description><![CDATA[<p>With a cloud of suspicion hanging over the Suffolk County Police Department, Billy and Alexis interview the new officials in charge of the LISK investigation, plus share some startling new evidence that was recently revealed.</p> &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></description>
+               <acast:settings><![CDATA[rceWiicvqsQEDtNJuaoFn2kIifP5sBiPYpp7zgeytD5A8mogOd0eM0ZmfsGtCJ0KgELmIIbNXlnIo2TMEJvGJjGmKqMOj1ABG9qzJa0/ooOlYRR61q/Dr4rOgOx04Q6so3ntAkJnU9rQUJqfJtgIEsDObjQamWdEMQ6yP1vzrQ59BNId/XuRIMvgkg36XvILbYm8O6sw/6ActSeXozDJgW/xMzKiqtR5ibpdQ40jHvwxpDPyyy6NZ5e7rKgVegr4VEUewjRJ+VG/Igvrb/TyR3qrQnWnfcLuLz3OG8ucWdGdknp21s9aLxA2RKfgentbPMMHMAG7yq9Rn0/z17iC8ViM0IZfEXtDSsGDks/trL+TJlzO1pxxuDQhabRs7C2Lh8LWdsyTpMhZPSniGY8CWsZswESzKrQPrHn2b035YObjHK+zfV8QtANVEifCGunQSbBy5v+uSvXpDLQwmPOV+n6pSmiUnY8c6Z9e2Ny1ODAH/mQcEzDK7MQzZDi4JaG1dAVWNS32Fnobht60gbG2hZyZXO0RLN3CcMMrBoi9aqvNMAKKuUgo9cVQD152Rjh+IZpSqKz5roTmlOyYIuA4NSZSNdU67XLhRvrlx+1jANplUx1Mo3KZKxiWNEoVxiicjquE+6TSzYQnFZZMgtnQbu6/kmjhatrr2cKpL4RhcG+UbOXyq76ANM0S9tYbTc2bgA7ZxEKMfjm5MWnMFS6L+BbMUvdjjr7eV67eXDy21L36N9vTbNc9OMcEC4t9Ao0Ge9ygR2aTeKJ6wY7NI9GnaOH1T6WNBkchw3dnS6RR9Opl/B47AQnZLof77BWaMRj1iWqbnbIuOnkCR+KAw8JY8w==]]></acast:settings>
+                <link>https://play.acast.com/s/unraveled/newevidence</link>
+
+                <enclosure url="https://sphinx.acast.com/unraveled/newevidence/media.mp3" length="73697450" type="audio/mpeg"/>
+            </item>
+            <item>
+                <title>Oak Beach</title>
+                <acast:episodeId>e22b7994-ebb2-4b4a-b62e-081338367206</acast:episodeId>
+                <acast:episodeUrl>oakbeach</acast:episodeUrl>
+                <itunes:subtitle>A former sex worker discloses disturbing details about an encounter she had with the soon-to-be-named chief of police at a sex party in Oak Beach, a secretive community just two miles from where the LISK dumped the bodies of 11 dead sex workers.</itunes:subtitle>
+                <itunes:summary><![CDATA[A former sex worker discloses disturbing details about an encounter she had with the soon-to-be-named chief of police at a sex party in Oak Beach, a secretive community just two miles from where the LISK dumped the bodies of 11 dead sex workers. &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></itunes:summary>
+                
+                <guid isPermaLink="false"><![CDATA[e22b7994-ebb2-4b4a-b62e-081338367206]]></guid>
+                <pubDate>Wed, 24 Feb 2021 11:00:00 GMT</pubDate>
+                <itunes:duration>00:41:32</itunes:duration>
+                <itunes:keywords></itunes:keywords>
+                <itunes:explicit>yes</itunes:explicit>
+                <itunes:episodeType>full</itunes:episodeType>
+                
+                
+                <itunes:season>1</itunes:season>
+                <itunes:episode>5</itunes:episode>
+                
+                
+                <description><![CDATA[<p>A former sex worker discloses disturbing details about an encounter she had with the soon-to-be-named chief of police at a sex party in Oak Beach, a secretive community just two miles from where the LISK dumped the bodies of 11 dead sex workers.</p> &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></description>
+               <acast:settings><![CDATA[rceWiicvqsQEDtNJuaoFn2kIifP5sBiPYpp7zgeytD5A8mogOd0eM0ZmfsGtCJ0KgELmIIbNXlnIo2TMEJvGJjGmKqMOj1ABG9qzJa0/ooO8+ZfXBIaUkvsGeMC3MiaQ042f/snpl9pXgfRjRXauK1D8MXrymG+E3hH2M/KWs9cy4uzkLK72xp2+yCd/otmtjhhSc1jsUKj3DPIMDc2lqEYEZ+15MGeGJl47vkcdVFtAkQo0sO7Q5hpo9amrxD4HMj4NWwjLF+85HhWixMPqjTOzHqzVqUXQqDiFLO/gQRKPti0sujT+s331c96+wMPm54uPRjFCfUzIVfnS8WQ2xR5yLXm/Uv/5BJDUmP/BZB+KmGIBRPiJDI9gBuIak5Q0Adsnyd2Vpx9xaRyP5NUK2qBCcgho7zlSmZl84WXAHT/d+a5ryCk6yAxHKYyxJA+5tjrhBHfo0eaWUutgvRN93IRAYtFjLhafOQnBmrbE/kf0B3dR7zQrV3+jrg0LZamoSt21SuBCBvlB5L9tZ3PYzYzFpa+2zTXU4WinwBoYIAMKViTem0TmI7XR56qYoD+hZIj14DBCN9bEDjILEXpne98d4R6lVCR+BgG1oFWOFbcOHbVTudPkq9O9Vcf5waCo6z4aYv47+gsoa/MKIiTcSViBY0Q11PuU7MpGVNQjG90EzJmV9GZXMrrol6Uos2Za/d9T9au6q861bj51mMtx0hOtcOKiQUlxENJMd8w0huwZNW+w2Ih9/NIS+jLbFtKi+1mgMSqw3ZB2tCqV5VY8vFGR+wDKqL9xs65nhebXIbKQLChdokfwyt1CuBT6KYaA]]></acast:settings>
+                <link>https://play.acast.com/s/unraveled/oakbeach</link>
+
+                <enclosure url="https://sphinx.acast.com/unraveled/oakbeach/media.mp3" length="39873056" type="audio/mpeg"/>
+            </item>
+            <item>
+                <title>Twelve Months Of Misery</title>
+                <acast:episodeId>e3c0aeb5-5c2e-4935-bf1d-5814e18425b3</acast:episodeId>
+                <acast:episodeUrl>twelvemonthsofmisery</acast:episodeUrl>
+                <itunes:subtitle>After uncovering evidence that law enforcement had not been doing everything in their power to solve the LISK case, Alexis and Billy go back to the start of investigation and the gruesome discovery of 11 victims between December 2010 and December 2011.</itunes:subtitle>
+                <itunes:summary><![CDATA[After uncovering evidence that law enforcement had not been doing everything in their power to solve the LISK case, Alexis and Billy go back to the start of investigation and the gruesome discovery of 11 victims between December 2010 and December 2011. &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></itunes:summary>
+                
+                <guid isPermaLink="false"><![CDATA[e3c0aeb5-5c2e-4935-bf1d-5814e18425b3]]></guid>
+                <pubDate>Wed, 17 Feb 2021 11:00:00 GMT</pubDate>
+                <itunes:duration>00:45:41</itunes:duration>
+                <itunes:keywords></itunes:keywords>
+                <itunes:explicit>yes</itunes:explicit>
+                <itunes:episodeType>full</itunes:episodeType>
+                
+                
+                <itunes:season>1</itunes:season>
+                <itunes:episode>4</itunes:episode>
+                
+                
+                <description><![CDATA[<p>After uncovering evidence that law enforcement had not been doing everything in their power to solve the LISK case, Alexis and Billy go back to the start of investigation and the gruesome discovery of 11 victims between December 2010 and December 2011.</p> &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></description>
+               <acast:settings><![CDATA[rceWiicvqsQEDtNJuaoFn2kIifP5sBiPYpp7zgeytD5A8mogOd0eM0ZmfsGtCJ0KgELmIIbNXlnIo2TMEJvGJjGmKqMOj1ABG9qzJa0/ooP/bNIfygeOQEPIPUIX5UjQqy5YAKMiFBqj3rDZS1DMaDEC24Ros1BIAJuZgGEvP+6GMzLQoIq+mMsa4Bs9P08LsEGUCcSy5dF+YBXvHNb2lZO9QI5VZ6wBP5LwlnT9/K/kzhB4L0dMZzn8UFkDpaBDDNccXBYLLzF17pvkR+Hmagm6u2xMGNzEgNarcGT00tw8h9QvDbKtc3eaPsWrnHnby9vaOLpvxtUxfzucZ0B0UXm+bD7aCdi3VTc1suMbfOuAzT+ewNE3Wc/+mOaogVzj6xL1+dpPbZ6oPIZ8Z++XFHlaLOGsRrEh48Kw6XO8Vd5OAB2nmA6ReX+ZqGaPTXMTPN/F1qBPfiQJFOcQiTlmg13JwuKZtqZA4EDgxrIatRwZygL3z2tjWc6fZi59darnsnc0WDcJFrJ+ahJCIoScoJIo+52Ov4I7mz4qYojQKk8c0JgV2k+C92YdkB39ns0VQR/bjNRtDaR8jc1tCNXTUupveuPjh60kbM1aiwZaoRnFMRbM5RG4hkE1/l8PmYnMxqZBu5mha4fBbZRkOzp8BDT/CPmW/DualN1L1EGvw8GYWsdLH0iCtfHAlCIYew/F4Lsw8/dBIsoRWbFEK5MAOvQquu4jqpRcLVrgzlkOpdrinu1v2Fjlpnm7khdEa3mfngzeT+zjRCaW8zbg0nkQyBHbBAJ++XiTski1WSt2IrGX04ilSxZq6aYd+ZZgmZWf]]></acast:settings>
+                <link>https://play.acast.com/s/unraveled/twelvemonthsofmisery</link>
+
+                <enclosure url="https://sphinx.acast.com/unraveled/twelvemonthsofmisery/media.mp3" length="43757510" type="audio/mpeg"/>
+            </item>
+            <item>
+                <title>A Deal With The Devil</title>
+                <acast:episodeId>7e272deb-1b92-4857-ae96-ddfd1586bab7</acast:episodeId>
+                <acast:episodeUrl>adealwiththedevil</acast:episodeUrl>
+                <itunes:subtitle>Alexis and Billy revisit another Long Island murder case from 1979, and uncover a troubling connection with two of the authorities trusted to lead the LISK investigation.</itunes:subtitle>
+                <itunes:summary><![CDATA[Alexis and Billy revisit another Long Island murder case from 1979, and uncover a troubling connection with two of the authorities trusted to lead the LISK investigation. &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></itunes:summary>
+                
+                <guid isPermaLink="false"><![CDATA[7e272deb-1b92-4857-ae96-ddfd1586bab7]]></guid>
+                <pubDate>Wed, 10 Feb 2021 11:00:16 GMT</pubDate>
+                <itunes:duration>00:41:13</itunes:duration>
+                <itunes:keywords></itunes:keywords>
+                <itunes:explicit>yes</itunes:explicit>
+                <itunes:episodeType>full</itunes:episodeType>
+                
+                
+                <itunes:season>1</itunes:season>
+                <itunes:episode>3</itunes:episode>
+                
+                
+                <description><![CDATA[<p>Alexis and Billy revisit another Long Island murder case from 1979, and uncover a troubling connection with two of the authorities trusted to lead the LISK investigation.</p> &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></description>
+               <acast:settings><![CDATA[rceWiicvqsQEDtNJuaoFn2kIifP5sBiPYpp7zgeytD5A8mogOd0eM0ZmfsGtCJ0KgELmIIbNXlnIo2TMEJvGJjGmKqMOj1ABG9qzJa0/ooNYNL1jSs9alZs0V0UJ7Z3Lmm5f0yKzn4NjeB0eK/n25t1uRD1x6cA9MKdbO0GJwf6d4B4q3Py6/0grPmQVhpdoRtZJg9KSijvCc/LVarq5iGAiHMH0QZa6AyKf2CPze5DC48ylB/SdcQ+zElyV7rM4N+TqK4R5CtDDNaN5p2OaeunX96I7QZrWjduE3j9WyyWxJhAlrivYPU7wa05cYuNKiaJIs88nHjdAqJdgb5sXFEE8XNjoSR2HZoJQtSayop4vurO6fb06AiUsEH9kEucX78rpMo4ZSyzbjW0VS1f7FG+fONqDE+fzzdhBIln8UUIVfEXY/JaZqgGHajF9Ki8gdDgXVwY+UuVkaQfUZKnmvqRMDBRfNNMxNbswhNofYnqO3wRIzX6nzezwrs72S88w9ltzlWVRI+/65kSw010nOhqT9tkcxgbOfHVDwRc+7D4Xd1fQTiIQVHtPidqemP8WomNG7cYDFdKSu1YtVtGokcoIsm8lOqkWMK0jMIbaPUV+63EOZluaI/8DHzByIW0zIQnM4sp1h9gljHXw+N88gU1GkOJbPaIYBuEI3a2hQg4wdQKU05hoKiJJiInBtGqsXsoWRYIZcWZSglRNHtODly9vx2rYlpkTsAaLT9ZgvtgucD+i9mKtN19nTG2QYcpjj4Mie9rZxTLYRxASWCN/ASZbk7NYu0iL/iPTNoAnuIf4ezL1/JUqVaP6VXEfT9f7]]></acast:settings>
+                <link>https://play.acast.com/s/unraveled/adealwiththedevil</link>
+
+                <enclosure url="https://sphinx.acast.com/unraveled/adealwiththedevil/media.mp3" length="69711963" type="audio/mpeg"/>
+            </item>
+            <item>
+                <title>Fail to the Chief</title>
+                <acast:episodeId>e00507c4-5eaa-405b-931d-4ecf0285d5aa</acast:episodeId>
+                <acast:episodeUrl>failtothechief</acast:episodeUrl>
+                <itunes:subtitle>Alexis and Billy uncover a secret from the past&amp;nbsp;with incriminating information about the former Chief of Police of Suffolk County.</itunes:subtitle>
+                <itunes:summary><![CDATA[Alexis and Billy uncover a secret from the past&nbsp;with incriminating information about the former Chief of Police of Suffolk County. &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></itunes:summary>
+                
+                <guid isPermaLink="false"><![CDATA[e00507c4-5eaa-405b-931d-4ecf0285d5aa]]></guid>
+                <pubDate>Wed, 03 Feb 2021 11:00:00 GMT</pubDate>
+                <itunes:duration>00:37:05</itunes:duration>
+                <itunes:keywords></itunes:keywords>
+                <itunes:explicit>yes</itunes:explicit>
+                <itunes:episodeType>full</itunes:episodeType>
+                
+                
+                <itunes:season>1</itunes:season>
+                <itunes:episode>2</itunes:episode>
+                
+                
+                <description><![CDATA[<p>Alexis and Billy uncover a secret from the past&nbsp;with incriminating information about the former Chief of Police of Suffolk County.</p> &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></description>
+               <acast:settings><![CDATA[rceWiicvqsQEDtNJuaoFn2kIifP5sBiPYpp7zgeytD5A8mogOd0eM0ZmfsGtCJ0KgELmIIbNXlnIo2TMEJvGJjGmKqMOj1ABG9qzJa0/ooNOP9Dnb15UFLk4B2+NgcEs2di++PKWgB66aL0Xmy93hL8koz3reW9cXdAWnLETtvIu2kKerXHMbydH4r0Xf6FRvSxJyzasGuqVCyp9DVPqw99T1wbvQ6gH3Zbc7FNjw+/JWbt5iiYNLX9nvrYEifDBNzo5/OihsHLRO9pJNxNhM2Cmipan3F9bODedwvs/VV0me0xDPCu2WIt41agQHMnJrEWX3JrZ4jnMoKt35EmNmYT479BMeg4FtcPRHsNkFtkjLbg+uPH8sa2fABreM/6zbJNdBe6re54MekEWyZ4yfGFPaQmWeO8Zh10H2KVP4uWlV24aTiZEfN+EPeJHY0GwB8fp0vHy+sI1r39Y4IZnzR6HPhLJ6tx/9vy+uAvw2Bi0uk7cw168X0OEaRa/8hEznjVeP68TtsPAvOCyFsj5HltF4p5f4XXD6eJhdwShRJMPE3UZfM3wu0F0a7LaFkjgjBLmQGt6BSwOCrM2Ft1set83plFQpXGuSaY4KNJUX3YFqSUEmqZZ80Yetr1+5bZvnRxIkLbIOmacYpx0V+7DneXGulyoUxzl9QIbEmxM5XLG/G8Gmyzr/yz5/CKF4w0dpk6B9BWa1hQHDcVjTdqKEWTSvDLwNEZfYl6vyyJplCkQwuttvxqzpbFEzwSexpSt0sPaLf4W0WAo1xAuyJGBnjzUuQci0qltZqYrgWxhtROB6uDMyV/vslhZ0tN1cZxS]]></acast:settings>
+                <link>https://play.acast.com/s/unraveled/failtothechief</link>
+
+                <enclosure url="https://sphinx.acast.com/unraveled/failtothechief/media.mp3" length="53354553" type="audio/mpeg"/>
+            </item>
+            <item>
+                <title>David and Goliath</title>
+                <acast:episodeId>69fa220d-ba11-4238-a1f8-a87038fee528</acast:episodeId>
+                <acast:episodeUrl>davidandgoliath</acast:episodeUrl>
+                <itunes:subtitle>Alexis’s childhood friend claims to have key evidence that could lead to solving the ten year mystery of the Long Island Serial Killer murders.</itunes:subtitle>
+                <itunes:summary><![CDATA[Alexis’s childhood friend claims to have key evidence that could lead to solving the ten year mystery of the Long Island Serial Killer murders. &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></itunes:summary>
+                
+                <guid isPermaLink="false"><![CDATA[69fa220d-ba11-4238-a1f8-a87038fee528]]></guid>
+                <pubDate>Wed, 27 Jan 2021 11:00:00 GMT</pubDate>
+                <itunes:duration>00:44:45</itunes:duration>
+                <itunes:keywords></itunes:keywords>
+                <itunes:explicit>yes</itunes:explicit>
+                <itunes:episodeType>full</itunes:episodeType>
+                
+                
+                <itunes:season>1</itunes:season>
+                <itunes:episode>1</itunes:episode>
+                <itunes:image href="https://thumborcdn.acast.com/kl-mXQbPd6bESnS1mUq9AIHsXqU=/3000x3000/https://mediacdn.acast.com/assets/69fa220d-ba11-4238-a1f8-a87038fee528/cover-image-kkmvjbq9-lisk-podcast_ka-dplus-3000x3000.png" />
+                
+                <description><![CDATA[<p>Alexis’s childhood friend claims to have key evidence that could lead to solving the ten year mystery of the Long Island Serial Killer murders.</p> &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></description>
+               <acast:settings><![CDATA[rceWiicvqsQEDtNJuaoFn2kIifP5sBiPYpp7zgeytD5A8mogOd0eM0ZmfsGtCJ0KgELmIIbNXlnIo2TMEJvGJjGmKqMOj1ABG9qzJa0/ooPn1ekofmvb88280h7sXybVu2yO/POgcHFIaOtBvfQkN61d7Qnd3P3tpCjiLAnHNPjfFaUiTYpNyH8p332rpxcfhpXv1D+Uh/j3+PEJPJWOo6lqO8ZvvadQFbatbR2j4NBMG6ZwY+schuvBjOAEuoAy+CcVWIjK+Asz5Qhf2M4Yt+qHDL6tMsgzUQWuQWxneY/QXmaDe9Kd2Z3i5dWh5DmEyuQTLaWnX6cUfJeg/mlNJNihxDqrnXQX6sFb263hrGF+vbSoqUtt4vDP8ygYbNuPx11X/BNd3JmZuhN66HL0kF5ZGh1qL7g7VrPglRHPG7mRiPh81+3zi+rY+vqPr4Wb/6wTNZuc3I0tbIZUe58rEKgU/7yVwo7LH2eyWXYM/0Vvfet+qfI+RsEKuf7SXNO8MLSbjmKg4M5dtD9tSK0W16jhT3WgM1ovH+4PqtulwhDBRdtmnOSrpxRLSGRJOpuLq6xHl9wfve2BHTNOIU1U/RL6YZ6YClyNcaNcQyP2DZzbQ86j4SFqeWDBtjI9DJ8SJn7oX9NJ5RgEGPNPS0AA7urpJcKi7y6YadzdI0R4K8rH5oUa3P70vMv0tiAy0Y9aJQlbKKL8TjenQ06+IwZvhLcqvr0sWiCBH0VdfRKSh3EnfDcElZRPe7p6hMKefVjOtygbJnWPBTwUgp1JR/Rmr7BL9ZrtEGYe5Ph073AWjZ3KWPZTDMGNCPdhIFFIfzUi]]></acast:settings>
+                <link>https://play.acast.com/s/unraveled/davidandgoliath</link>
+
+                <enclosure url="https://sphinx.acast.com/unraveled/davidandgoliath/media.mp3" length="64478816" type="audio/mpeg"/>
+            </item>
+            <item>
+                <title>Introducing - Unraveled: Long Island Serial Killer</title>
+                <acast:episodeId>99384c70-57e3-4362-a6de-7a9f8dfbd290</acast:episodeId>
+                <acast:episodeUrl>introducing-unraveled-longislandserialkiller</acast:episodeUrl>
+                <itunes:subtitle>Get an advanced listen of the new true crime podcast series “Unraveled: Long Island Serial Killer”. Investigative journalists Alexis Linkletter and Billy Jensen re-examine the murders from a decade ago to find out why the case is still unsolved. Episod...</itunes:subtitle>
+                <itunes:summary><![CDATA[Get an advanced listen of the new true crime podcast series “Unraveled: Long Island Serial Killer”. Investigative journalists Alexis Linkletter and Billy Jensen re-examine the murders from a decade ago to find out why the case is still unsolved. Episodes debut January 27, 2021. &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></itunes:summary>
+                
+                <guid isPermaLink="false"><![CDATA[99384c70-57e3-4362-a6de-7a9f8dfbd290]]></guid>
+                <pubDate>Wed, 09 Dec 2020 20:20:05 GMT</pubDate>
+                <itunes:duration>00:02:05</itunes:duration>
+                <itunes:keywords></itunes:keywords>
+                <itunes:explicit>yes</itunes:explicit>
+                <itunes:episodeType>trailer</itunes:episodeType>
+                
+                
+                <itunes:season>1</itunes:season>
+                <itunes:episode>1</itunes:episode>
+                
+                
+                <description><![CDATA[<p>Get an advanced listen of the new true crime podcast series “Unraveled: Long Island Serial Killer”. Investigative journalists Alexis Linkletter and Billy Jensen re-examine the murders from a decade ago to find out why the case is still unsolved. Episodes debut January 27, 2021.</p> &#10;&nbsp;<br /><hr><p style='color: grey; font - size: 0.75em; '>See <a style='color: grey; ' target='_blank' rel='noopener noreferrer' href='https://acast.com/privacy'>acast.com/privacy</a> for privacy and opt-out information.</p>]]></description>
+               <acast:settings><![CDATA[rceWiicvqsQEDtNJuaoFn2kIifP5sBiPYpp7zgeytD5A8mogOd0eM0ZmfsGtCJ0KgELmIIbNXlnIo2TMEJvGJjGmKqMOj1ABG9qzJa0/ooM5+e/wBuGSe3V8eUm6mhIlMBd3x+3pGCr1PL6Js7Wy5ASlFwKtc4sGvZiG1/P7YEhdMaGvNXemL73L0EHxwejK8K0H0mFBAuagnid5Ggcu6jsaFTHhmVE/L7ny3HFdN1pbisnIcAQ1aGanM91Vx8CUC8o+3XBogDxX/UR9rSxffZs6cc4Y1j91TyayQ+qChZX5u4HOSafDP4kvBuQVtnrTeteTx6UNr6nr1DqnskvzZEjNjrTqiSSsL2MxjxG2hwh5DKB5pw96pDqV0JhoraTmjhRnsQXYj9oLCKoEtltBTklHymhhIxBv73WFVsnxQj+T/PdsAXvN2tMmoyUZMA8xQV157GCeJ4gr6Z2wrZaOalEUs4Vs2OgURigtnSgf6betCM4ttLD+H3+mUVGQs9fK885CwOFHFvfWhIO8r116h9nJPdhRYXo73c9YATlvfkenU76bEnBuKozrguTDm5tw897g5zUZ8zByorldSW+ctAXPX9nXyBmHf7Q0ZcMAWQPLforKGNQptc97H3G/3LfD]]></acast:settings>
+                <link>https://play.acast.com/s/unraveled/introducing-unraveled-longislandserialkiller</link>
+
+                <enclosure url="https://sphinx.acast.com/unraveled/introducing-unraveled-longislandserialkiller/media.mp3" length="2508194" type="audio/mpeg"/>
+            </item>
+    </channel>
+</rss>
